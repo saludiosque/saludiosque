@@ -6,18 +6,15 @@ Soy un estudiante avanzado de bioingeniería con conocimiento en **Machine Learn
 
 ##  Tecnologías y Herramientas
 
-###  Computación Científica & Data Science
-- **Lenguajes:** Python, R
-- **Análisis de Datos & ML:** NumPy, Pandas, Scikit-Learn, SciPy, Biopython
-- **Visualización:** Matplotlib, Seaborn, xmgrace
-- **Entorno & DevOps:** Git, GitHub, Linux (Bash), Google Colab
+###  Data Science & Programación
+- **Lenguajes:** Python (NumPy, Pandas, Matplotlib, Scikit-Learn), R
+- **Entorno:** Git, Linux (Bash), Google Colab
 
-###  Bioinformática & Biología Estructural
-- **Dinámica Molecular:** AMBER Suite (`sander`, `pmemd`, `tLeap`, `cpptraj`, `pdb4amber`, `mdout_analyzer`)
-- **Docking Molecular & Screening:** AutoDock, AutoDock Vina, MGLTools
-- **Modelado & Predicción:** AlphaFold, Rosetta, bases de datos estructurales (PDB, UniProt)
-- **Visualización Molecular:** PyMOL, VMD (Tcl scripting)
-- **Genómica & Secuenciación (ONT/NGS):** Galaxy Project (`NanoPlot`, `Filtlong`, `Flye`, `Bandage`, `QUAST`, `BLAST+`)
+###  Bioinformática & Modelado Molecular
+- **Flujos de trabajo aplicados:** Galaxy Project (QC y ensamblado de novo para Nanopore), visualización estructural con PyMOL y VMD.
+- **🌱 En formación & exploración activa:**
+  - *Dinámica Molecular:* Suite AMBER (`tLeap`, `sander`, `cpptraj` para preparación y análisis de trayectorias).
+  - *Docking & Estructura:* AutoDock, AutoDock Vina, MGLTools, Rosetta, AlphaFold.
 
 
 ## Proyectos:
