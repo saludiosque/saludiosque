@@ -11,7 +11,7 @@ Soy un estudiante avanzado de bioingeniería con conocimiento y formandome en **
 
 ###  Bioinformática & Modelado Molecular
 - **Flujos de trabajo aplicados:** Galaxy Project (QC y ensamblado de novo para Nanopore), visualización estructural con PyMOL y VMD.
-- ** En formación & exploración activa:**
+- **En formación y exploración activa:**
   - *Dinámica Molecular:* Suite AMBER (`tLeap`, `sander`, `cpptraj` para preparación y análisis de trayectorias).
   - *Docking & Estructura:* AutoDock, AutoDock Vina, MGLTools, Rosetta, AlphaFold.
 
