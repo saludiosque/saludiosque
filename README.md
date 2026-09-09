@@ -1,7 +1,6 @@
 # Buenas! 
 
-Soy un estudiante avanzado de bioingeniería con conocimiento en **Machine Learning**, **Ciencia de Datos** y **bioinformatica**. Me interesa aplicar modelos computacionales y análisis cuantitativo para resolver problemas complejos a partir de datos reales.
-
+Soy un estudiante avanzado de bioingeniería con conocimiento y formandome en **Machine Learning**, **Ciencia de Datos** y **bioinformatica**. Interesado en aprender sobre bioinformatica y analisis omicos
 ---
 
 ##  Tecnologías y Herramientas
