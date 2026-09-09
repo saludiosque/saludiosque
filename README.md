@@ -6,12 +6,21 @@ Soy un estudiante avanzado de bioingeniería con conocimiento en **Machine Learn
 
 ##  Tecnologías y Herramientas
 
+###  Computación Científica & Data Science
 - **Lenguajes:** Python, R
-- **Datos & ML:** Pandas, NumPy, Scikit-Learn, SciPy
-- **Visualización & Entorno:** Matplotlib, Seaborn, Git, Google Colab, Linux
+- **Análisis de Datos & ML:** NumPy, Pandas, Scikit-Learn, SciPy, Biopython
+- **Visualización:** Matplotlib, Seaborn, xmgrace
+- **Entorno & DevOps:** Git, GitHub, Linux (Bash), Google Colab
+
+###  Bioinformática & Biología Estructural
+- **Dinámica Molecular:** AMBER Suite (`sander`, `pmemd`, `tLeap`, `cpptraj`, `pdb4amber`, `mdout_analyzer`)
+- **Docking Molecular & Screening:** AutoDock, AutoDock Vina, MGLTools
+- **Modelado & Predicción:** AlphaFold, Rosetta, bases de datos estructurales (PDB, UniProt)
+- **Visualización Molecular:** PyMOL, VMD (Tcl scripting)
+- **Genómica & Secuenciación (ONT/NGS):** Galaxy Project (`NanoPlot`, `Filtlong`, `Flye`, `Bandage`, `QUAST`, `BLAST+`)
 
 
-##Proyectos:
+## Proyectos:
 
 ### Bioinformatica
 **Analisis genomico en Galaxy Europe**: https://github.com/saludiosque/Analisis-Genomico-en-Galaxy-europe/tree/main
